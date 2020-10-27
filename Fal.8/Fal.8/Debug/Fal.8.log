@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\javid\source\repos\Fal.8\Fal.8\Source.cpp(31,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\javid\source\repos\Fal.8\Fal.8\Source.cpp(37,23): warning C4018: '<': no coinciden signed/unsigned
+  Fal.8.vcxproj -> C:\Users\javid\source\repos\Fal.8\Debug\Fal.8.exe
